@@ -11,10 +11,10 @@ Installing
 
 open terminal and type
 
-git clone https://github.com/devmahmud/FoodCorner.git
+git clone https://github.com/Nayan-Code/Food-Corner-django.git
 
 or simply download using the url below
-https://github.com/devmahmud/FoodCorner.git
+https://github.com/Nayan-Code/Food-Corner-django.git
 To migrate the database open terminal in project directory and type
 python manage.py makemigrations
 python manage.py migrate
